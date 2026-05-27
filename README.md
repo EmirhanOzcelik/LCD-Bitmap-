@@ -14,3 +14,5 @@ düzenlemeleri maskeleme vs. yapılabilir.
 ---
 ![pixelden-hex](data/image2.png)
 ---
+
+- üretilen hex kodu mikrodenetleyici ortamına vs aktarılabilir. 
